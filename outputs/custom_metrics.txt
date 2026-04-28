@@ -1,0 +1,8 @@
+=== Test Seti Özeti ===
+Accuracy : 0.8333
+Recall   : 0.8000  (pozitif sınıf: Hemorrhage=1)
+Precision: 0.8571
+
+Confusion matrix (satır=gerçek, sütun=tahmin):
+[[13  2]
+ [ 3 12]]
